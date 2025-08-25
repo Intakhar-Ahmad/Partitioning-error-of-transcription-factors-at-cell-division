@@ -6,13 +6,13 @@ chromosome hitch-hiking models).
 
 ## What’s inside
 - `docs/Report(2nd Project).pdf` — full project report
-- `matlab/` — **put your MATLAB `.m` scripts here**
-- `data/` — **put your `.mat` data files here**
+- `matlab/` — ** my MATLAB `*.m` scripts here**
+- `data/` — **my data `*.mat` data files here**
 
 ## Quick start (MATLAB)
 1. Clone or download this repository.
-2. Place your `.m` files into `matlab/` and your `.mat` files into `data/`.
-3. In MATLAB, add this folder to the path and run your main script (e.g., `Mysimulation.m`).
+2. Place my `.m` files into `matlab/` and my `.mat` files into `data/`.
+3. In MATLAB, add this folder to the path and run my main script (e.g., `Mysimulation.m`).
 
 ## Notes
 - Consider using **Git LFS** for large `.mat` files to keep the repo fast:
