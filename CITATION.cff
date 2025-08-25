@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Partitioning error of transcription factors at cell division — code & data"
+authors:
+  - family-names: Ahmad
+    given-names: Intakhar
+version: "1.0.0"
+date-released: "2025-08-25"
+license: MIT
+repository-code: "https://github.com/<your-username>/partitioning-tf-cell-division"
+preferred-citation:
+  type: report
+  title: "Partitioning error of transcription factors at cell division"
+  authors:
+    - family-names: Ahmad
+      given-names: Intakhar
